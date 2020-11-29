@@ -1,0 +1,1 @@
+A simple quiz on how well a person(my friend/acquaintance) knows me.
